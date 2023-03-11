@@ -1,0 +1,16 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "Microserviço realizado para o curso da plataforma DIO",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "Luann Curioso",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
